@@ -82,11 +82,11 @@ const simple = require('./lib/simple.js')
 
     //--Setting--//
 
-let botname = '*_｢ KuzaBase 0.1 ｣ 冬_*' //NAMA BOT
+let botname = '*_｢ Brayenz 0.1 ｣ 冬_*' //NAMA BOT
 let lolkey = 'isi'
 let zekskey = 'NXRu7zmcmyWTn0YGNzIV0gTFgoP' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '*_｢ AbilGanz ✘ ｣_*' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let ownername = '*_｢ Brayen ｣_*' //NAMA OWNER
+let owner = '6281211968573' // NOMOR OWNER
 let symbol = '*☛*'
 let faketeks = `*_｢ KuzaBase 0.1 ｣ 冬_*` 
 
@@ -517,7 +517,7 @@ latensi = speed() - timestamp;
 run = process.uptime();
  listMsg = {
  buttonText: 'ListMenu ️',
- footerText: '🌀 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘈𝘣𝘪𝘭𝘉𝘰𝘵𝘻',
+ footerText: '🌀 CREATE BY BRAYEN',
  description: `Hai kak @${sender.split('@')[0]}, Saya ${botname}, saya akan membatu mempermudah kehidupan..seperti membuat sticker dan lain-lain. untuk memulai silahkan ketik Click Button Dibawah yaa 🙏
  
  *_｢ Indonesia Time ｣_*
@@ -577,7 +577,7 @@ latensi = speed() - timestamp;
 run = process.uptime();
  listMsg = {
  buttonText: 'Buttons',
- footerText: '🌀 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘈𝘣𝘪𝘭𝘉𝘰𝘵𝘻',
+ footerText: '🌀 CREATE BY BRAYEN',
  description: `Hai kak @${sender.split('@')[0]}, Silahkan Pilih Salah Satu Button List Dibawah Yaa 🙏
  
  *_｢ Indonesia Time ｣_*
@@ -660,7 +660,7 @@ ${symbol} ${prefix}closegc
 ${symbol} ${prefix}tagall
 ${symbol} ${prefix}hidetag
 
-*_Created By AbilGanz_*`)
+*_Created By Brayen_*`)
 break
 
 case 'stickermenu':
@@ -673,7 +673,7 @@ ${symbol} ${prefix}patrick
 ${symbol} ${prefix}gawgura
 ${symbol} ${prefix}stickeranime
 
-*_Created By AbilGanz_*`)
+*_Created By Brayen_*`)
 break
 
 case 'downloadmenu':
@@ -683,7 +683,7 @@ ${symbol} ${prefix}ytsearch
 ${symbol} ${prefix}tiktokmusic
 ${symbol} ${prefix}pinterest
 
-*_Created By AbilGanz_*`)
+*_Created By Brayen_*`)
 break
 
 case 'othermenu':
@@ -699,7 +699,7 @@ ${symbol} ${prefix}groupbot
 ${symbol} ${prefix}runtime
 ${symbol} ${prefix}speed
 
-*_Created By AbilGanz_*`)
+*_Created By Brayen_*`)
 break
 
 case 'ownermenu':
@@ -713,7 +713,7 @@ ${symbol} ${prefix}upswaudio
 ${symbol} ${prefix}upswvideo
 ${symbol} ${prefix}upswimage
 
-*_Created By AbilGanz_*`)
+*_Created By Brayen_*`)
 break
 
 case 'upswteks':
